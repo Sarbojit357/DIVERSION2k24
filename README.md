@@ -1,4 +1,4 @@
-# Tripio - Your Ultimate Travel Companion
+![image](https://github.com/Sarbojit357/DIVERSION2k24/assets/113027026/75e11239-302b-4465-ac67-8634e8b30f50)# Tripio - Your Ultimate Travel Companion
 
 ![coding](front.jpg)
 
@@ -13,7 +13,9 @@ Welcome to Tripio, your go-to travel website that goes beyond the ordinary. With
 
 ## How to Use
 1. **Sign Up:** Create a Tripio account to unlock personalized features and preferences.
+![coding](login.jpg)
 2. **Explore Categories:** Choose your preferred category, whether it's Forests, Deserts, Beaches, Mountains, or others.
+![coding](categories.jpg)
 3. **AI Assistance:** Utilize the AI Travel Assistant for personalized recommendations, itinerary planning, and real-time updates.
 4. **Connect with Tour Providers:** Browse through the list of tour providers for each destination, view packages, and choose the one that suits your preferences.
 5. **Plan Your Journey:** Use the interactive maps and additional features to plan your journey seamlessly.
